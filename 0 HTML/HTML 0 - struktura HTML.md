@@ -1,4 +1,4 @@
-# Struktura dokumentu
+# Struktura HTML
 
 ## Příklad
 

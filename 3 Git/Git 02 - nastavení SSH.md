@@ -52,27 +52,26 @@ notepad id_nejakecislo.epub
 Číslo z notepadu zkopírujeme (Ctrl+C) a otevřeme si Github
 
 V Githubu klikneme vpravo nahoře na naší ikonu
-
-![image](https://gist.github.com/assets/84028625/5b148de4-7eb6-4ecb-9a3c-a4502049b535)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/ef11f56b-1553-4e3f-950b-e897446120a5)
 
 Settings
 
-![image](https://gist.github.com/assets/84028625/744bdf9c-2d2e-4e70-afbb-ebd8d6ea5a96)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/ec7b5b3a-1d62-4976-b263-f8a1db8bd8b4)
 
 V levé části SSH and GPG keys
 
-![image](https://gist.github.com/assets/84028625/d579478d-0342-4311-a092-eabe979095c6)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/1b3eaad6-a944-49c7-8cc4-7552fe656a46)
 
 Vpravo nahoře New SSH key
 
-![image](https://gist.github.com/assets/84028625/d4ad51bf-9459-4461-8cf9-dc4eb24d65a2)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/0f8ba9e3-f740-4474-b7ab-eaef30d17aae)
 
 Do title napsat cokoliv, do pole Key nakopírovat náš Public key a kliknout na Add SSH key
 
-![image](https://gist.github.com/assets/84028625/801042c8-6f11-4172-a5fd-130d0c507d6c)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/ab996405-f313-4e3a-83bd-9ef231c569ba)
 
 Hotovo. Nyní můžete používat SSH připojení a nemusíte ověřovat přihlašování přes prohlížeč.
 
 Při klonování repozitářů nyní budete volit SSH
 
-![image](https://gist.github.com/assets/84028625/164027f4-57ab-4bf2-aa10-a81c97c7b674)
+![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/3f9af04b-0138-4981-a424-e47f9de102f8)

@@ -49,7 +49,7 @@ Pomocí notepadu otevřeme náš Public key, který má koncovku .epub
 notepad id_nejakecislo.epub
 ```
 
-Číslo z notepadu zkopírujeme (Ctrl+C) a otevřeme si Github
+**Číslo z notepadu zkopírujeme (Ctrl+C) a otevřeme si Github**
 
 V Githubu klikneme vpravo nahoře na naší ikonu
 

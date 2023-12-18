@@ -52,6 +52,7 @@ notepad id_nejakecislo.epub
 Číslo z notepadu zkopírujeme (Ctrl+C) a otevřeme si Github
 
 V Githubu klikneme vpravo nahoře na naší ikonu
+
 ![image](https://github.com/JS-Trebesin/WET-materialy/assets/84028625/ef11f56b-1553-4e3f-950b-e897446120a5)
 
 Settings

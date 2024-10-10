@@ -17,3 +17,12 @@ Tyto pseudoelementy umožňují vložit obsah před nebo za vybraný element.
     color: blue;
 }
 ```
+
+## další pseudoelementy
+
+`::before` a `::after` jsou nejpoužívanější pseudoelementy, nicméně existují i další, například:
+
+-   `::first-line`: upraví první řádek textu
+-   `::first-letter`: upraví první písmenko textu
+-   `::selection`: upraví část textu, kterou označil uživatel
+-   `::marker`: upraví odrážku nebo číslo v seznamu

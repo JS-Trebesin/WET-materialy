@@ -88,6 +88,16 @@ Můžete kombinovat více transformací v jednom příkazu:
 }
 ```
 
+nebo
+
+```css
+.box {
+    translate: 50px, 20px;
+    rotate: 45deg;
+    scale: 1.5;
+}
+```
+
 ## Pokročilejší transformace:
 
 ### 3D transformace

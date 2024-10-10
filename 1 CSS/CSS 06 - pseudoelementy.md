@@ -18,7 +18,7 @@ Tyto pseudoelementy umožňují vložit obsah před nebo za vybraný element.
 }
 ```
 
-## další pseudoelementy
+## Další pseudoelementy
 
 `::before` a `::after` jsou nejpoužívanější pseudoelementy, nicméně existují i další, například:
 

@@ -7,12 +7,12 @@ Pseudoelementy jsou speciální selektory v CSS, které umožňují stylovat ur�
 Tyto pseudoelementy umožňují vložit obsah před nebo za vybraný element.
 
 ```css
-.example::before {
+.ukazka::before {
     content: "Před ";
     color: red;
 }
 
-.example::after {
+.ukazka::after {
     content: " Po";
     color: blue;
 }

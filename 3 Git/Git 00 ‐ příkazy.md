@@ -63,11 +63,11 @@
     <td>Přidá všechny soubory do staging area</td>
   </tr>
   <tr>
-    <td><strong>git commit -m "zpráva”</strong></td>
+    <td><strong>git commit -m "<i>zpráva</i>”</strong></td>
     <td>Commitne (provede a uloží) změny se zprávou</td>
   </tr>
   <tr>
-    <td><strong>git commit -am “zpráva”</strong></td>
+    <td><strong>git commit -am “<i>zpráva</i>”</strong></td>
     <td>Kombinace příkazů git add. + git commit -m → vše přidá a commitne</td>
   </tr>
   <tr>

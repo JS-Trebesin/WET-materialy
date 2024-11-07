@@ -1,6 +1,29 @@
 # Git - příkazy
 
+### Nejpoužívanější příkazy 🔄💾
+
+<table>
+  <tr>
+    <td><strong>git pull origin main</strong></td>
+    <td>Stáhne novou verzi kódu/projektu z Githubu</td>
+  </tr>
+  <tr>
+    <td><strong>git add .</strong></td>
+    <td>Připraví změny na vytvoření nové verze kódu/projektu</td>
+  </tr>
+  <tr>
+    <td><strong>git commit -m "<i>zpráva</i>”</strong></td>
+    <td>Vytvoří novou verzi</td>
+  </tr>
+  <tr>
+    <td><strong>git push origin main</strong></td>
+    <td>Odešle novou verzi na Github</td>
+  </tr>
+</table>
+
 ### Instalace a nastavení ⚙️🔧
+
+_stačí provést na počítači pouze jednou, poté si počítač nastavení pamatuje_
 
 <table>
   <tr>
